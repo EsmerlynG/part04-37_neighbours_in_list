@@ -111,4 +111,4 @@ This exercise helped me practice list traversal, conditional logic, and handling
 
 ## 🎓 Course
 
-This project was completed as part of **MOOC.fi Python Programming - Part 4**.
+This challenge was completed as part of **MOOC.fi Python Programming - Part 4**.
